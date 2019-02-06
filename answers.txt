@@ -1,0 +1,27 @@
+## Reading Material
+
+Read through the examples in these two articles about [`for` loops](https://www.digitalocean.com/community/tutorials/how-to-construct-for-loops-in-python-3) and [`while` loops](https://www.digitalocean.com/community/tutorials/how-to-construct-while-loops-in-python-3) from Digital Ocean. Then, answer the following questions.
+
+1. What is a nested loop? 
+
+--- A loop that occurs within another loop
+
+
+2. Which kind of loop is based on a conditional statement: `while` loops or `for` loops?
+
+--- while loop
+
+
+3. When you want to iterate a specific number of times, would you typically use a `while` loop or a `for` loop?
+
+--- for loop
+
+
+4. Is it possible to loop through a string one letter at a time? What is the example given in the article?
+
+--- Yes, example given in article used for loop to loop through the string "Sammy"
+
+
+5. Extrapolate from what you learned in the articles: Do you think a `for` loop be nested inside a `while` loop? Why or why not?
+
+--- Yes, the for loop can be leveraged in a while loop when looking to write additional condition through each iteration within the while loop
